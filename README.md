@@ -1,5 +1,5 @@
 # SeriesApp
-Proyecto de Android Studio para visualizar infromación de series.
+Proyecto de Android Studio para visualizar información de series.\n
 Funciones de actividades:
   MainActivity: Ejecuta un login con datos preestablecidos.
   ListadoSeriesActivity: LLena los datos de cada serie y las lista Usando el Adaptador ( SeriesAdapter).
