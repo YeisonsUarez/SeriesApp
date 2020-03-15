@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SeriesApp</string>
+    <string name="text_login_segundo_corte">Segundo Taller-Primer corte   </string>
+    <string name="editName">Nombre usuario</string>
+    <string name="editPassword">Contraseña</string>
+    <string name="textBotonLogin">Ingresar</string>
+    <string name="nameUser">yeison</string>
+    <string name="passUser">qwerty123</string>
+    <string name="textLayoutListado">Listado de Series</string>
+    <string name="textElenco">Elenco</string>
+</resources>
